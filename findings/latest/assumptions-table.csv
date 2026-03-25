@@ -1,0 +1,13 @@
+category,assumption,value,unit,confidence,notes
+population,IDEA students (ages 3-21),7500000,students,high,NCES 2022-23 reference
+population,Section 504-only students,1400000,students,medium,Older CRS/ED referenced figure; refresh needed
+pricing,Conservative blended ARPU,7,USD/month,medium,Implied mix of Essential+Plus
+pricing,Base blended ARPU,10,USD/month,medium,Core pricing hypothesis
+pricing,Upside blended ARPU,14,USD/month,low,Higher Plus/Pro mix
+sam,SAM reach conservative,0.05,share,low,Assumption for near-term serviceable reach
+sam,SAM reach base,0.10,share,low,Assumption for near-term serviceable reach
+sam,SAM reach upside,0.15,share,low,Assumption for near-term serviceable reach
+som,Paying families conservative,12000,families,low,24-36 month scenario
+som,Paying families base,30000,families,low,24-36 month scenario
+som,Paying families upside,75000,families,low,24-36 month scenario
+platform,Take rate,0.10,share,medium,Draft model for advocate marketplace
