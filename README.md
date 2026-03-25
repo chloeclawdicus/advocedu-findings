@@ -11,6 +11,7 @@ Published research findings for mobile reading.
 - `findings/latest/sensitivity-analysis.md`
 - `findings/latest/investor-facing-memo-2026-03.md`
 - `findings/latest/research-artifacts-index.md`
+- `findings/latest/reddit-qual-insights-2026-03.md`
 
 ## Notes
 This repository contains baseline research artifacts and summaries generated on 2026-03-25.
