@@ -9,6 +9,8 @@ Published research findings for mobile reading.
 - `findings/latest/market-sizing.md`
 - `findings/latest/assumptions-table.csv`
 - `findings/latest/sensitivity-analysis.md`
+- `findings/latest/investor-facing-memo-2026-03.md`
+- `findings/latest/research-artifacts-index.md`
 
 ## Notes
 This repository contains baseline research artifacts and summaries generated on 2026-03-25.
